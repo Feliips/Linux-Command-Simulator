@@ -1,7 +1,8 @@
 # 🐧Linux Command Simulator
-
+![DIO](https://img.shields.io/badge/DIO-Project-blue)
+![Linux](https://img.shields.io/badge/Linux-Terminal-black?logo=linux)
+![Status](https://img.shields.io/badge/status-concluido-success)
 Projeto desenvolvido como solução de desafio de programação da DIO.
-![DIO](https://img.shields.io/badge/DIO-Project-blue) ![Linux](https://img.shields.io/badge/Linux-Terminal-black?logo=linux) ![Status](https://img.shields.io/badge/status-concluido-success)
 
 O objetivo do desafio é simular descrições de comandos básicos do terminal Linux utilizando STDIN e STDOUT.
 
